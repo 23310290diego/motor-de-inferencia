@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "fecha": "2026-10-28T09:31:33.832913",
+  "total_reglas": 5,
+  "reglas": [
+    "estudio si y solo si tengo el libro",
+    "si tengo el libro y leo, entonces apruebo",
+    "estudio o leo",
+    "no apruebo",
+    "no tengo el libro"
+  ]
+}
